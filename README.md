@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trinicktrotoluene
 - 👀 I’m interested in books 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on minecraft mods or resource packs
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on minecraft mods or resource packs or Win11 custom image
 - 📫 How to reach me: brains5098@gmail.com, ysk504@icloud.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm creating a conlang
